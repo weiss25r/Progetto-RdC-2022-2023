@@ -1,14 +1,2 @@
-# Docker-NodeJS-MySQL
-
-Dokerized NodeJS app with MySQL Database
-
-<h2>How to run</h2>
-<ol>
-	<li>Clone this repository</li>
-	<li>
-		Run this command <code>docker-compose up</code>
-	</li>
-	<li>
-		Access <code>localhost:3000</code> in your browser and empty json will be shown
-	</li>
-</ol>
+Sistema di condivisione file realizzato in NodeJS, per l'esame di Reti di Calcolatori 2022-2023.
+Team: Andrea Spinelli, Raffaele Terracino, Marco Valenti
